@@ -1,1 +1,47 @@
-theme: jekyll-theme-architect
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+# Site Settings
+title: "Mario Andres Botero Florez"
+email: # Add your email here if you want it displayed
+description: "Software Developer | .NET Specialist | Full Stack Engineer"
+baseurl: ""
+url: "https://mariobot.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Theme Settings
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Author
+author:
+  name: "Mario Andres Botero Florez"
+  avatar: # "/assets/images/bio-photo.jpg"
+  bio: "Software Developer | .NET Specialist"
+  location: "Colombia"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mario-andres-botero-florez"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mariobot"
+    - label: "Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "https://mariobot.wordpress.com"
+
+# Navigation
+header_pages:
+  - contact.md
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

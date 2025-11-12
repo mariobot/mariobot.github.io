@@ -35,6 +35,8 @@ author:
 
 # Navigation
 header_pages:
+  - about.md
+  - social.md
   - contact.md
 
 # Defaults

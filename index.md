@@ -30,7 +30,7 @@ I write about software development, cloud technologies, and my experiences. Chec
 - [Configurar un certificado gratis en tu WebApp de Azure](https://mariobot.wordpress.com/2020/04/28/gratis-ssl-webapp-azure/) - How to configure free SSL certificates on Azure Web Apps
 - [Mi experiencia con Windows 10](https://mariobot.wordpress.com/2025/09/16/mi-experiencia-con-windows-10/) - My experience and insights on Windows 10
 
-Visit my full blog at [mariobot.wordpress.com](https://mariobot.wordpress.com) for more articles on engineering, development, and technology.
+[**View all blog posts →**](/blog/)
 
 ## Connect
 

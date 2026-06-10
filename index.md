@@ -7,15 +7,6 @@ header:
 excerpt: "Software Developer specializing in .NET and Full Stack Development"
 ---
 
-## Navigation
-
-- **[About](/about/)** - Learn more about me and my background
-- **[Contact](/contact/)** - Get in touch with me
-- **[Blog](/blog/)** - Read my latest articles
-- **[Social](/social/)** - Connect with me on social media
-- **[University](/university/)** - My educational background and achievements
-- **[GitHub](/github/)** - My GitHub profile and projects
-
 ## About Me
 
 I'm Mario Andres Botero Florez, a passionate software developer with expertise in .NET technologies and full stack development. I focus on building robust, scalable applications and contributing to open source projects.
@@ -26,6 +17,16 @@ I'm Mario Andres Botero Florez, a passionate software developer with expertise i
 - **Full Stack**: Frontend and Backend development
 - **Software Engineering**: Architecture, design patterns, best practices
 - **Version Control**: Git, GitHub
+
+## Navigation
+
+- **[About](/about/)** - Learn more about me and my background
+- **[Contact](/contact/)** - Get in touch with me
+- **[Blog](/blog/)** - Read my latest articles
+- **[Social](/social/)** - Connect with me on social media
+- **[University](/university/)** - My educational background and achievements
+- **[GitHub](/github/)** - My GitHub profile and projects
+
 
 ## Projects
 

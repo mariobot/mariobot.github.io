@@ -35,9 +35,13 @@ author:
 
 # Navigation
 header_pages:
+  - index.md
   - about.md
+  - blog.md
   - social.md
+  - university.md
   - contact.md
+  - github.md
 
 # Defaults
 defaults:

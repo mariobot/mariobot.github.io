@@ -5,6 +5,15 @@ permalink: /social/
 author_profile: true
 ---
 
+## Navigation
+
+- **[About](/about/)** - Learn more about me and my background
+- **[Contact](/contact/)** - Get in touch with me
+- **[Blog](/blog/)** - Read my latest articles
+- **[Social](/social/)** - Connect with me on social media
+- **[University](/university/)** - My educational background and achievements
+- **[GitHub](/github/)** - My GitHub profile and projects
+
 ## Connect With Me
 
 Stay connected and follow my work across different platforms. I share technical insights, project updates, and professional content regularly.

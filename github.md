@@ -5,6 +5,15 @@ permalink: /github/
 author_profile: true
 ---
 
+## Navigation
+
+- **[About](/about/)** - Learn more about me and my background
+- **[Contact](/contact/)** - Get in touch with me
+- **[Blog](/blog/)** - Read my latest articles
+- **[Social](/social/)** - Connect with me on social media
+- **[University](/university/)** - My educational background and achievements
+- **[GitHub](/github/)** - My GitHub profile and projects
+
 ## My Open Source Work
 
 Visit my complete profile at [@mariobot](https://github.com/mariobot)

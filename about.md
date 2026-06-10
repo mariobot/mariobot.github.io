@@ -8,6 +8,15 @@ toc_label: "On This Page"
 toc_icon: "user"
 ---
 
+## Navigation
+
+- **[About](/about/)** - Learn more about me and my background
+- **[Contact](/contact/)** - Get in touch with me
+- **[Blog](/blog/)** - Read my latest articles
+- **[Social](/social/)** - Connect with me on social media
+- **[University](/university/)** - My educational background and achievements
+- **[GitHub](/github/)** - My GitHub profile and projects
+
 ## Professional Summary
 
 Software Developer with extensive experience in .NET technologies and full stack development. Passionate about building scalable applications, implementing best practices, and sharing knowledge through technical writing and open source contributions.

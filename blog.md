@@ -9,6 +9,16 @@ author_profile: true
 
 ---
 
+## Navigation
+
+- **[About](/about/)** - Learn more about me and my background
+- **[Contact](/contact/)** - Get in touch with me
+- **[Blog](/blog/)** - Read my latest articles
+- **[Social](/social/)** - Connect with me on social media
+- **[University](/university/)** - My educational background and achievements
+- **[GitHub](/github/)** - My GitHub profile and projects
+
+
 ## Software Development & Technology Blog
 
 Welcome to my blog where I share insights, tutorials, and experiences about software development, cloud technologies, and engineering best practices. My articles focus on practical solutions and real-world implementations.

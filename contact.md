@@ -5,6 +5,15 @@ permalink: /contact/
 author_profile: true
 ---
 
+## Navigation
+
+- **[About](/about/)** - Learn more about me and my background
+- **[Contact](/contact/)** - Get in touch with me
+- **[Blog](/blog/)** - Read my latest articles
+- **[Social](/social/)** - Connect with me on social media
+- **[University](/university/)** - My educational background and achievements
+- **[GitHub](/github/)** - My GitHub profile and projects
+
 ## Get in Touch
 
 I'm always interested in connecting with fellow developers, discussing technology, or exploring new opportunities. Feel free to reach out through any of the following channels:

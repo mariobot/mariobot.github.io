@@ -44,5 +44,5 @@ I write about software development, cloud technologies, and my experiences. Chec
 
 ## Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mario-andres-botero-florez), check out my repositories on [GitHub](https://github.com/mariobot), or read my [blog](https://mariobot.wordpress.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mariobot/), check out my repositories on [GitHub](https://github.com/mariobot), or read my [blog](https://mariobot.wordpress.com).
 

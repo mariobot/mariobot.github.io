@@ -23,7 +23,7 @@ Stay connected and follow my work across different platforms. I share technical 
 ## Professional Networks
 
 ### 💼 LinkedIn
-**[Mario Andres Botero Florez](https://www.linkedin.com/in/mario-andres-botero-florez)**
+**[Mario Andres Botero Florez](https://www.linkedin.com/in/mariobot/)**
 
 Connect with me on LinkedIn for:
 - Professional updates and career highlights
@@ -122,7 +122,7 @@ I'm always interested in:
 
 | Platform | Username | Link |
 |----------|----------|------|
-| LinkedIn | Mario Andres Botero Florez | [Profile](https://www.linkedin.com/in/mario-andres-botero-florez) |
+| LinkedIn | Mario Andres Botero Florez | [Profile](https://www.linkedin.com/in/mariobot/) |
 | GitHub | @mariobot | [Profile](https://github.com/mariobot) |
 | Twitter | @mariobot | [Profile](https://twitter.com/mariobot) |
 | Blog | MaRioBoT | [Visit](https://mariobot.wordpress.com) |

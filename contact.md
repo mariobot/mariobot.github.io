@@ -20,7 +20,7 @@ I'm always interested in connecting with fellow developers, discussing technolog
 
 ### Professional Networks
 
-- **LinkedIn**: [Mario Andres Botero Florez](https://www.linkedin.com/in/mario-andres-botero-florez)
+- **LinkedIn**: [Mario Andres Botero Florez](https://www.linkedin.com/in/mariobot/)
 - **GitHub**: [@mariobot](https://github.com/mariobot)
 
 ### Content & Writing

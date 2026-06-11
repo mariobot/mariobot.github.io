@@ -116,7 +116,7 @@ Building software that solves real problems, learning new technologies, and shar
 
 Interested in collaboration, technical discussions, or just want to connect? Feel free to reach out through:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mario-andres-botero-florez)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariobot/)
 - 💻 [GitHub](https://github.com/mariobot)
 - 📝 [Blog](https://mariobot.wordpress.com)
 - 📧 [Contact Page](/contact/)
